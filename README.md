@@ -19,7 +19,8 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|[919](https://leetcode.com/problems/word-search-ii/)|[Word Search II](https://github.com/tony820315/leetcode/issues/1)|34.4%%|Hard|
+|[919](https://leetcode.com/problems/word-search-ii/)|[Word Search II](https://github.com/tony820315/leetcode/issues/1)|34.4%|Hard|
+|[957](https://leetcode.com/problems/prison-cells-after-n-days)|[Prison Cells After N Days](https://github.com/tony820315/leetcode/issues/2)|41.6%|Medium|
 
 
 
