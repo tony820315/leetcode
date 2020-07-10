@@ -25,6 +25,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |[441](https://leetcode.com/problems/arranging-coins/)|[Arranging Coins](https://github.com/tony820315/leetcode/issues/4)|42.0%|Easy|
 |[461](https://leetcode.com/problems/hamming-distance)|[Hamming Distance](https://github.com/tony820315/leetcode/issues/4)|72.5%|Easy|
 |[463](https://leetcode.com/problems/island-perimeter/)|[Island Perimeter](https://github.com/tony820315/leetcode/issues/6)|64.0%|Easy|
+|[662](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Maximum Width of Binary Tree](https://github.com/tony820315/leetcode/issues/9)|41.6%|Medium|
 |[919](https://leetcode.com/problems/word-search-ii/)|[Word Search II](https://github.com/tony820315/leetcode/issues/1)|34.4%|Hard|
 |[957](https://leetcode.com/problems/prison-cells-after-n-days)|[Prison Cells After N Days](https://github.com/tony820315/leetcode/issues/2)|41.6%|Medium|
 
