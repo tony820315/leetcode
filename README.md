@@ -20,6 +20,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |[66](https://leetcode.com/problems/plus-one/)|[Plus One](https://github.com/tony820315/leetcode/issues/5)|42.9%|Easy|
+|[100](https://leetcode.com/problems/same-tree/)|[Same Tree](https://github.com/tony820315/leetcode/issues/11)|53.0%|Easy|
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Binary Tree Level Order Traversal II](https://github.com/tony820315/leetcode/issues/7)|53.1%|Easy|
 |[190](https://leetcode.com/problems/reverse-bits/)|[Reverse Bits](https://github.com/tony820315/leetcode/issues/10)|39.2%|Easy|
 |[264](https://leetcode.com/problems/ugly-number-ii/)|[Ugly Number II](https://github.com/tony820315/leetcode/issues/8)|40.4%|Medium|
