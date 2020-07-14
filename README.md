@@ -30,6 +30,8 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |[662](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Maximum Width of Binary Tree](https://github.com/tony820315/leetcode/issues/9)|41.6%|Medium|
 |[919](https://leetcode.com/problems/word-search-ii/)|[Word Search II](https://github.com/tony820315/leetcode/issues/1)|34.4%|Hard|
 |[957](https://leetcode.com/problems/prison-cells-after-n-days)|[Prison Cells After N Days](https://github.com/tony820315/leetcode/issues/2)|41.6%|Medium|
+|[1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Angle Between Hands of a Clock
+](https://github.com/tony820315/leetcode/issues/12)|62.0%|Medium|
 
 
 
