@@ -24,6 +24,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Binary Tree Level Order Traversal II](https://github.com/tony820315/leetcode/issues/7)|53.1%|Easy|
 |[151](https://leetcode.com/problems/reverse-words-in-a-string/)|[Reverse Words in a String](https://github.com/tony820315/leetcode/issues/13)|21.2%|Medium|
 |[190](https://leetcode.com/problems/reverse-bits/)|[Reverse Bits](https://github.com/tony820315/leetcode/issues/10)|39.2%|Easy|
+|[203](https://leetcode.com/problems/remove-linked-list-elements/)|[Remove Linked List Elements](https://github.com/tony820315/leetcode/issues/13)|38.1%|Easy|
 |[264](https://leetcode.com/problems/ugly-number-ii/)|[Ugly Number II](https://github.com/tony820315/leetcode/issues/8)|40.4%|Medium|
 |[441](https://leetcode.com/problems/arranging-coins/)|[Arranging Coins](https://github.com/tony820315/leetcode/issues/4)|42.0%|Easy|
 |[461](https://leetcode.com/problems/hamming-distance)|[Hamming Distance](https://github.com/tony820315/leetcode/issues/4)|72.5%|Easy|
