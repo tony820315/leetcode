@@ -19,6 +19,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|[28](https://leetcode.com/problems/implement-strstr/)|[Implement strStr() ](https://github.com/tony820315/leetcode/issues/15)|34.4%|Easy|
 |[66](https://leetcode.com/problems/plus-one/)|[Plus One](https://github.com/tony820315/leetcode/issues/5)|42.9%|Easy|
 |[100](https://leetcode.com/problems/same-tree/)|[Same Tree](https://github.com/tony820315/leetcode/issues/11)|53.0%|Easy|
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Binary Tree Level Order Traversal II](https://github.com/tony820315/leetcode/issues/7)|53.1%|Easy|
