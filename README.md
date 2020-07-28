@@ -22,6 +22,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 |[28](https://leetcode.com/problems/implement-strstr/)|[Implement strStr() ](https://github.com/tony820315/leetcode/issues/15)|34.4%|Easy|
 |[66](https://leetcode.com/problems/plus-one/)|[Plus One](https://github.com/tony820315/leetcode/issues/5)|42.9%|Easy|
 |[100](https://leetcode.com/problems/same-tree/)|[Same Tree](https://github.com/tony820315/leetcode/issues/11)|53.0%|Easy|
+|[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/tony820315/leetcode/issues/17)|46.9%|Medium|
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Binary Tree Level Order Traversal II](https://github.com/tony820315/leetcode/issues/7)|53.1%|Easy|
 |[151](https://leetcode.com/problems/reverse-words-in-a-string/)|[Reverse Words in a String](https://github.com/tony820315/leetcode/issues/13)|21.2%|Medium|
 |[*175](https://leetcode.com/problems/combine-two-tables/)|[Combine Two Tables](https://github.com/tony820315/leetcode/issues/16)|60.5%|Easy|
